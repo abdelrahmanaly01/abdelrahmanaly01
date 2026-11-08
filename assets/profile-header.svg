@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Abdelrahman Aly Youssef — Data Engineering and AI Automation</title>
+  <desc id="desc">A navy banner with the name Abdelrahman Aly Youssef and a connected data, AI, and insights diagram.</desc>
+  <rect width="1200" height="300" rx="20" fill="#101b2d"/>
+  <rect x="48" y="51" width="40" height="5" rx="2" fill="#57d8c5"/>
+  <text x="48" y="99" fill="#57d8c5" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="3">DATA ENGINEERING / AI AUTOMATION</text>
+  <text x="45" y="161" fill="#f1f5f9" font-family="Segoe UI,Arial,sans-serif" font-size="44" font-weight="700">Abdelrahman Aly Youssef</text>
+  <text x="48" y="207" fill="#b8c6d9" font-family="Segoe UI,Arial,sans-serif" font-size="21">From connected data to useful answers.</text>
+  <text x="48" y="259" fill="#8da1bc" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="1.5">PYTHON · SQL · CLOUD · ANALYTICS</text>
+  <path d="M800 152 H850 M950 152 H1000" fill="none" stroke="#57d8c5" stroke-width="2"/>
+  <g fill="#162840" stroke="#36506e" stroke-width="1.5">
+    <rect x="710" y="108" width="90" height="88" rx="15"/>
+    <rect x="850" y="108" width="100" height="88" rx="15"/>
+    <rect x="1000" y="108" width="125" height="88" rx="15"/>
+  </g>
+  <g fill="none" stroke="#57d8c5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="755" cy="133" rx="13" ry="5"/>
+    <path d="M742 133v21c0 7 26 7 26 0v-21 M742 143c0 7 26 7 26 0"/>
+    <path d="M900 124l8 15 16 8-16 8-8 15-8-15-16-8 16-8z"/>
+    <path d="M1048 160v-13 M1062 160v-25 M1076 160v-35"/>
+  </g>
+  <g fill="#dce6f4" font-family="Segoe UI,Arial,sans-serif" font-size="13" text-anchor="middle">
+    <text x="755" y="182">DATA</text>
+    <text x="900" y="182">AI</text>
+    <text x="1062" y="182">INSIGHTS</text>
+  </g>
+</svg>
