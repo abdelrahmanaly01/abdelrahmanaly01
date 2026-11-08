@@ -1,28 +1,107 @@
-<h1 align="center">Hi 👋, I'm Abdelrahman</h1>
-<h3 align="center">A passionate Data Analyst from Egypt</h3>
-<img align="right" alt="Coding" width="400" src="https://blog.imarticus.org/wp-content/uploads/2020/05/de.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrahmanaly01&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrahmanaly01" /> </p>
+![Abdelrahman Aly Youssef — Data Engineering and AI Automation](assets/profile-header.svg)
 
-- 🌱 I’m currently learning **Data Science Design patterns**
+[![Connect on LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square)](https://www.linkedin.com/in/abdelrahman-a-youssef/)
+[![Discuss a project on Upwork](https://img.shields.io/badge/Upwork-Discuss_a_project-147D36?style=flat-square)](https://www.upwork.com/freelancers/~0174b6b4ea071d6022)
+[![Send me an email](https://img.shields.io/badge/Email-Let%27s_talk-334155?style=flat-square)](mailto:abdelrahman.aly.yossef@gmail.com)
 
-- 💬 Ask me about **Data Science, Statistics, python, ML, Data Engineering, AWS cloud systems and first person games**
+### Hi, I'm Abdelrahman 👋
 
-- 📫 How to reach me **https://www.linkedin.com/in/abdelrahman-a-youssef/**
+**Data engineer, analytics team lead, and automation builder based in Egypt.** I connect data sources, build analytical workflows, and develop AI tools that help people find and understand information.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1k5BB6y8UWtc7W5_OwSnvlkRjRMh4KIGQ/view?usp=sharing](https://drive.google.com/file/d/1k5BB6y8UWtc7W5_OwSnvlkRjRMh4KIGQ/view?usp=sharing)
+- **Now:** Team Lead — Data & Analytics Product Engineering and QA at **VOIS**.
+- **Background:** 4+ years across data engineering, analytics, and Python automation, including roles at **Teleperformance, Majorel, and POSCX**.
+- **Building:** AI analytics prototypes, KPI knowledge workflows, and metadata-driven warehouse tools.
+- **Interested in:** Data engineering, analytics engineering, and AI automation roles and freelance projects.
 
-- ⚡ Fun fact **I think I am funny**
+## Selected work
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abdelrahman-a-youssef" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahman-a-youssef" height="30" width="40" /></a>
-</p>
+### 01 · BigPilot
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+> **Ask a question. Explore the data.**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanaly01&show_icons=true&locale=en&layout=compact" alt="abdelrahmanaly01" /></p>
+An AI analyst that inspects BigQuery schemas, runs analytical SQL, and explains results with charts. A working cloud proof of concept.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrahmanaly01&show_icons=true&locale=en" alt="abdelrahmanaly01" /></p>
+**Stack:** `Python` · `Gemini / Vertex AI` · `BigQuery` · `Streamlit` · `Cloud Run`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahmanaly01&" alt="abdelrahmanaly01" /></p>
+### 02 · KPI Knowledge & Automation
+
+> **Document KPIs. Make knowledge discoverable.**
+
+SAC dashboard metadata extraction and documentation, paired with a conversational agent for KPI definitions and where-used questions. Internal tooling and agent pilot.
+
+**Stack:** `Node.js` · `Playwright` · `SAP Analytics Cloud` · `Copilot Studio` · `SharePoint`
+
+### 03 · Warehouse Automation
+
+> **Turn recurring setup into reusable workflows.**
+
+Metadata-driven Python utilities for schema inspection, column reconciliation, staging procedures, and dimension and fact-load SQL generation.
+
+**Stack:** `Python` · `SQL Server` · `T-SQL` · `SQLAlchemy`
+
+### 04 · Steam Reviews Data Platform
+
+> **From raw reviews to analytical queries.**
+
+A self-selected training project using a **2.4M-review development sample**, PySpark processing, S3 storage, and a dimensional Redshift warehouse.
+
+**Stack:** `AWS S3` · `EMR` · `PySpark` · `Parquet` · `Redshift`
+
+[Explore the code →](https://github.com/abdelrahmanaly01/steam_reviews_data_warehouse)
+
+**More project discussions:** [Visit my Upwork profile](https://www.upwork.com/freelancers/~0174b6b4ea071d6022) or [get in touch](mailto:abdelrahman.aly.yossef@gmail.com).
+
+## Where I can help
+
+**Data pipelines & warehouses** — ETL/ELT, database and API integration, dimensional modeling, and metadata-driven SQL generation.
+
+**Python automation** — Data preparation, reconciliation, reporting workflows, and Excel/CSV exports.
+
+**AI & analytics** — Natural-language-to-SQL prototypes, KPI documentation and knowledge agents, plus BI interaction, performance, and validation work.
+
+## Tools I work with
+
+| Focus | Toolkit |
+| --- | --- |
+| Engineering | **Python · SQL** · pandas · SQLAlchemy · Git · Linux |
+| Data & cloud | Azure Data Factory · Databricks · Azure SQL · SQL Server · PostgreSQL · BigQuery · AWS S3 · EMR · Redshift |
+| AI & automation | Gemini / Vertex AI · Copilot Studio · Node.js · Playwright · REST APIs · Docker · Cloud Run |
+| Analytics | SAP Analytics Cloud · Power BI · Plotly · Streamlit · SharePoint · Power Automate |
+
+## Career journey
+
+### VOIS · Team Lead — Data & Analytics Product Engineering and QA
+**Nov 2025–Present**
+
+Lead a cross-functional engineering and QA team. Work spans agentic analytics, KPI documentation automation, and enhancements to a production SAP Analytics Cloud product, including interactions, analytical views, performance, and validation.
+
+### Teleperformance · Data Engineer I
+**Nov 2024–Oct 2025**
+
+Developed metadata-driven warehouse automation and worked on Azure Data Factory / Databricks pipelines, Python ETL, Azure Functions, Automation Runbooks, and Azure SQL Database.
+
+### Majorel · Global Data Engineer
+**Apr 2024–Nov 2024**
+
+Built warehouse and pipeline workflows with Azure Data Factory and Azure SQL, and automated integrations using Python, cloud functions, and APIs.
+
+### POSCX · Data Analyst
+**May 2022–Apr 2024**
+
+Led analytics work, built a historical-leads warehouse, delivered Power BI dashboards, and automated reporting and data preparation with PostgreSQL, Python, and Excel.
+
+## Education & credentials
+
+- **Microsoft Fabric Data Engineer Associate** — earned August 2025.
+- **Microsoft Azure Data Scientist Associate** — earned March 2023.
+- **[DataCamp Professional Data Analyst](https://www.datacamp.com/certificate/DA0015611246474)**.
+- **ITI — Data Analysis and Visualization**, 2021–2022.
+- **Bachelor's degree in Management Information Systems**, Faculty of Commerce, Alexandria University, 2017–2021.
+
+---
+
+### Have a data problem worth solving?
+
+Tell me what you need to connect, automate, or understand—and what a successful outcome would look like.
+
+**[Let's connect on LinkedIn](https://www.linkedin.com/in/abdelrahman-a-youssef/)** · **[Discuss a project on Upwork](https://www.upwork.com/freelancers/~0174b6b4ea071d6022)** · **[Email me](mailto:abdelrahman.aly.yossef@gmail.com)**
